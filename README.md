@@ -43,9 +43,12 @@
 ---
 
 ## 패키지 구성
-![스크린샷 2024-10-27 01-50-13](https://github.com/user-attachments/assets/1e4c3a70-edde-4ba9-aa23-af2f3874404f)
-![스크린샷 2024-10-27 01-50-04](https://github.com/user-attachments/assets/65cbc2af-54eb-4645-af66-b0e04bfb78b5)
-![스크린샷 2024-10-27 01-49-54](https://github.com/user-attachments/assets/1c4a42e2-f1a0-4b42-a602-5e4aed9a4f7c)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e4c3a70-edde-4ba9-aa23-af2f3874404f" width="30%" />
+  <img src="https://github.com/user-attachments/assets/65cbc2af-54eb-4645-af66-b0e04bfb78b5" width="30%" />
+  <img src="https://github.com/user-attachments/assets/1c4a42e2-f1a0-4b42-a602-5e4aed9a4f7c" width="30%: />
+</p>
 
 ### 1. **lidar**
 
