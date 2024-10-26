@@ -1,0 +1,14 @@
+sampling:
+  ros__parameters:
+    leaf_size: 0.05 #다운샘플링 사이즈로 0.01은 1cm를 의미
+roi:
+  ros__parameters:
+    angle_left: -120.0 #0도는 차량의 후면을 향함, 180도는 차량의 전면을 향함, 0도를 기준으로 좌측은 음수 우측은 양수, 해당 각도까지의 데이터를 제거함 
+    angle_right: 120.0 #ex) left -120 right 120인 경우 -120~-180도와 120~180도가 남음, 즉 전면 120도의 데이터가 남음 
+    distance_min: 0.0 #최소 거리
+    distance_max: 15.0 #최대 거리
+    height_limit: 0.0 #높이제한
+ransac: 
+  ros__parameters:
+    max_iterations: 10 #ransac알고리즘이 최적의 모델을 찾기 위해 시도하는 반복 횟수, 값이 클수록 더 정확한 모델을 찾을 수 있지만 계산 시간이 증가
+    distance_threshold: 0.10 #데이터 포인트가 모델에 속하는 것으로 간주하는 최대거리, 값이 작으면 작을수록 더 정확한 모델을 얻을 수 있지만 노이즈에 더 민감해짐
