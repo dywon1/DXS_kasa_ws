@@ -43,6 +43,9 @@
 ---
 
 ## 패키지 구성
+![스크린샷 2024-10-27 01-50-13](https://github.com/user-attachments/assets/1e4c3a70-edde-4ba9-aa23-af2f3874404f)
+![스크린샷 2024-10-27 01-50-04](https://github.com/user-attachments/assets/65cbc2af-54eb-4645-af66-b0e04bfb78b5)
+![스크린샷 2024-10-27 01-49-54](https://github.com/user-attachments/assets/1c4a42e2-f1a0-4b42-a602-5e4aed9a4f7c)
 
 ### 1. **lidar**
 
@@ -59,8 +62,7 @@ LiDAR 센서로부터 수집된 포인트 클라우드 데이터를 처리하여
   - **올해**: Python으로 작성한 코드를 C++로 변환하는 과정에서 원본 코드 제공과 지원을 통해 **50% 기여**하였습니다.
 
 
-![KakaoTalk_20241026_064232230 (2)](https://github.com/user-attachments/assets/88787372-e15b-4bef-9e35-cd759e08987e)
-![스플라인](https://github.com/user-attachments/assets/65ac8b00-7f27-4e9f-b98b-db725a1d7d5c)
+[스크린캐스트 10-27-2024 01:55:13 AM.webm](https://github.com/user-attachments/assets/1e9b558d-8e11-42db-9842-b52e7f407eed)
 
 ### 2. **path_planning**
 
