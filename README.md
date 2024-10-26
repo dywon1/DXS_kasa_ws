@@ -47,6 +47,10 @@ LiDAR 센서로부터 수집된 포인트 클라우드 데이터를 처리하여
 - ransac.cpp: 아웃라이어 제거 & 지면 제거를 통해 꼬깔콘만 남게 한다.
 - parameters.yaml: 위 3 코드의 파라미터를 조정한다.
 
+
+
+![KakaoTalk_20241026_064232230 (2)](https://github.com/user-attachments/assets/85f4d8a0-fc9e-42e1-a26c-1dc00abd9ddf)
+
 ### 2. **path_planning**
 
 차량 전방의 꼬깔콘 PCD를 받고 클러스터링 및 CCW 알고리즘을 통해 꼬깔콘의 사이의 중점 경로를 생성합니다.
@@ -70,6 +74,7 @@ LiDAR 센서로부터 수집된 포인트 클라우드 데이터를 처리하여
 - 센서 데이터 피드백을 통한 제어기 튜닝
 
 ---
+
 
 ## 시스템 요구 사항
 
