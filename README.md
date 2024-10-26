@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d32a9c5b-853f-400f-be54-fc8f909b2e9a" width="70%" /> 
+  <img src="https://github.com/user-attachments/assets/d32a9c5b-853f-400f-be54-fc8f909b2e9a" width="70%" />  
   <img src="https://github.com/user-attachments/assets/64643e95-c9eb-455a-b7e0-09a4a1da2eb9" width="20%" />
 </p>
 
@@ -47,10 +48,11 @@
 ## 패키지 구성
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1e4c3a70-edde-4ba9-aa23-af2f3874404f" width="30%" />
+  <img src="https://github.com/user-attachments/assets/1c4a42e2-f1a0-4b42-a602-5e4aed9a4f7c" width="30%" />
   <img src="https://github.com/user-attachments/assets/65cbc2af-54eb-4645-af66-b0e04bfb78b5" width="30%" />
-  <img src="https://github.com/user-attachments/assets/1c4a42e2-f1a0-4b42-a602-5e4aed9a4f7c" width="30%: />
+  <img src="https://github.com/user-attachments/assets/1e4c3a70-edde-4ba9-aa23-af2f3874404f" width="30%" />
 </p>
+
 
 ### 1. **lidar**
 
@@ -166,6 +168,7 @@ ros2 run control control_node
 ![KakaoTalk_20241027_013952656_02](https://github.com/user-attachments/assets/22f450ff-13e1-4eb2-9dd9-e6381a9d9502)
 ![KakaoTalk_20241027_013952656](https://github.com/user-attachments/assets/7f1f60a5-9ac0-4dce-9f4a-cd98a1610fdc)
 ![KakaoTalk_20241027_013952656_01](https://github.com/user-attachments/assets/2f32a55e-41f4-41f5-b36b-67105f1db410)
+![KakaoTalk_20241013_161755520_04](https://github.com/user-attachments/assets/54edfa87-e713-4ffa-8f72-9697f58bc0e0)
 ![KakaoTalk_20241027_014116421](https://github.com/user-attachments/assets/d9fd6125-bf8b-4231-83e2-532b3d756471)
 
 ---
