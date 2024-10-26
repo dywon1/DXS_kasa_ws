@@ -1,0 +1,11 @@
+path_planning:
+  ros__parameters:
+    cluster_tolerance: 0.75 #pcd 사이의 최대 거리
+    min_cluster_size: 3 #pcd의 최소 개수
+    max_cluster_size: 30 #pcd의 최대 개수
+    min_x: 0.01 #최소 x좌표차
+    max_x: 0.40 #최대 x좌표차
+    min_y: 0.01
+    max_y: 0.40
+    min_z: 0.05
+    max_z: 0.75
